@@ -47,4 +47,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 For any questions or suggestions, please contact [skippka] at [pyatkovskiyv@gmail.com].
 
-```
